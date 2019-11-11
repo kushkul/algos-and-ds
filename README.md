@@ -1,2 +1,2 @@
 # Algorithms and Data Structures
-Contains my implementation of some algorithms and data structure problems in Python
+This repo contains my implementation of some Algorithms and Data Structure problems in Python.
