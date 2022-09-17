@@ -7,8 +7,8 @@ This repo contains my solutions to algorithms and data structure problems on Lee
 
 |     #    |                             Title                            |    Solutions    |    Difficulty   |                 Tag                 |
 |:--------:|:------------------------------------------------------------:|:---------------:|:---------------:|:-----------------------------------:|
-| 454      | [4Sum II](https://leetcode.com/problems/4sum-ii/)            | [Python](https://leetcode.com/submissions/detail/800343802/) |      Medium     | Hash Table, Array                   |
-|          |                                                              |                 |                 |                                     |
+| 454      | [4Sum II](https://leetcode.com/problems/4sum-ii/)            | [Python](https://github.com/kushkul/leetcode-practice/blob/master/python/_454.py) |      Medium     | Hash Table, Array                   |
+| 3        | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/kushkul/leetcode-practice/blob/master/python/_3.py) | Medium | Hash Table   |
 |          |                                                              |                 |                 |                                     |
 
 
