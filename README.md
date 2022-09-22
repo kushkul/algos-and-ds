@@ -11,7 +11,8 @@ This repo contains my solutions to algorithms and data structure problems on Lee
 | 3        | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/kushkul/leetcode-practice/blob/master/python/_3.py) | Medium | Hash Table   |
 | 771      | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)  | [Python](https://github.com/kushkul/leetcode-practice/blob/master/python/_771.py)   | Easy | Hash Table  |
 | 652      | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [Python](https://github.com/kushkul/leetcode-practice/blob/master/python/_652.py) | Medium | Hash Table, DFS |
-
+| 36       | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  |  [Python](https://github.com/kushkul/leetcode-practice/blob/master/python/_36.py)  | Medium  | Hash Table, Matrix |
+| 869      | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)  |  [Python](https://github.com/kushkul/leetcode-practice/blob/master/python/_869.py)  | Medium | Math | 
 
 ## Best way to open this project
 1. Install IntelliJ or Visual Studio code on your machine, either CE or UE.
